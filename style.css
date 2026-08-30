@@ -44,6 +44,7 @@ a:focus-visible, button:focus-visible {
 /* Space invader — CSS pixel art, two-frame walk animation */
 .invader {
   --px: 2.5px;
+  --accent: #7da500;
   position: relative;
   width: calc(var(--px) * 11);
   height: calc(var(--px) * 8);
